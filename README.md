@@ -21,7 +21,22 @@ https://github.com/StephRoark/ExData_Plotting2
 
 5. Reproducible Research
 
+http://rpubs.com/StephRoark/140065
 https://github.com/StephRoark/RepData_PeerAssessment1
+
+6. Statistical Inference
+
+https://rpubs.com/StephRoark/148158
+
+https://rpubs.com/StephRoark/148451
+
+7. Regression Models
+
+http://rpubs.com/StephRoark/150515
+
+8. Practical Machine Learning
+
+9. Developing Data Products
 
 
 #Python Specialization
@@ -29,6 +44,9 @@ https://github.com/StephRoark/RepData_PeerAssessment1
 
 2. Python Data Structures
 
+3. Using Python to Access Wed Data
+
+4. Using Databases with Python
 
 
 
