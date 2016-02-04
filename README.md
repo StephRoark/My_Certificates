@@ -16,12 +16,12 @@ https://github.com/StephRoark/Getting_Cleaning_Data
 
 4. Exploratory Data Analysis
 
-https://github.com/StephRoark/ExData_Plotting1
+https://github.com/StephRoark/ExData_Plotting1 \n
 https://github.com/StephRoark/ExData_Plotting2
 
 5. Reproducible Research
 
-http://rpubs.com/StephRoark/140065
+http://rpubs.com/StephRoark/140065 \n
 https://github.com/StephRoark/RepData_PeerAssessment1
 
 6. Statistical Inference
