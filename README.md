@@ -38,10 +38,14 @@ http://rpubs.com/StephRoark/150515
 
 8. Practical Machine Learning
 
+https://github.com/StephRoark/PracticalMachineLearning
+
 9. Developing Data Products
 
+https://datascience4good.shinyapps.io/SFcrime-App/
 
 #Python Specialization
+
 1. Python for Everybody
 
 2. Python Data Structures
